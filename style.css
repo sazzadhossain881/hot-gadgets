@@ -1,0 +1,43 @@
+.container{
+    margin-bottom: 50px;
+}
+.buy-now-btn{
+    width: 120px;
+    height: 50px;
+    border: none;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.macbook{
+    width: 100%;
+    height: 100vh;
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-position:center;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 5px;
+
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.see{
+    color: gold;
+}
+.cat{
+    text-align: center;
+}
+
+.cat1, .cat2, .cat3{
+    width: 150px;
+    height: 150px;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 5px;
+}
